@@ -21,7 +21,7 @@
   <bpmndi:BPMNDiagram id="_LdMoMOqSEeuyS-O1YPkGsw">
     <bpmndi:BPMNPlane id="_LdMoMeqSEeuyS-O1YPkGsw" bpmnElement="Test.Sacombank">
       <bpmndi:BPMNShape id="shape__F1D47EAD-760B-4F88-A733-ADC898349626" bpmnElement="_F1D47EAD-760B-4F88-A733-ADC898349626">
-        <dc:Bounds height="56.0" width="56.0" x="295.0" y="77.0"/>
+        <dc:Bounds height="56.0" width="56.0" x="295.0" y="0.0"/>
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="shape__A5B9C9FC-0D5E-435F-9107-D7E9C1968EC9" bpmnElement="_A5B9C9FC-0D5E-435F-9107-D7E9C1968EC9">
         <dc:Bounds height="56.0" width="56.0" x="431.0" y="77.0"/>
