@@ -27,8 +27,8 @@
         <dc:Bounds height="56.0" width="56.0" x="431.0" y="77.0"/>
       </bpmndi:BPMNShape>
       <bpmndi:BPMNEdge id="edge_shape__F1D47EAD-760B-4F88-A733-ADC898349626_to_shape__A5B9C9FC-0D5E-435F-9107-D7E9C1968EC9" bpmnElement="_804CA3BB-ED4A-4589-83C5-B1DA0A9040EA">
-        <di:waypoint xsi:type="dc:Point" x="351.0" y="101.0"/>
-        <di:waypoint xsi:type="dc:Point" x="431.0" y="101.0"/>
+        <di:waypoint xsi:type="dc:Point" x="351.0" y="0.0"/>
+        <di:waypoint xsi:type="dc:Point" x="431.0" y="0.0"/>
       </bpmndi:BPMNEdge>
     </bpmndi:BPMNPlane>
   </bpmndi:BPMNDiagram>
